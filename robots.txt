@@ -1,0 +1,12 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+
+Disallow: 
+
+Sitemap: http://sunpng.github.io/sitemap.xml
+Sitemap: http://sunpng.github.io/baidusitemap.xml
